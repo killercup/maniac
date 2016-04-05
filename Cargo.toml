@@ -1,0 +1,4 @@
+[package]
+authors = ["Pascal Hertleif <killercup@gmail.com>"]
+name = "maniac"
+version = "0.1.0"
